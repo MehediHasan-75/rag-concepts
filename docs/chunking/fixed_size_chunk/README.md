@@ -10,4 +10,4 @@ python3 chunking/fixed_size_chunking.py
 
 Notes:
 - This directory contains `rag_chunking_test_doc.md`, which is the test input used by multiple chunkers.
-- Output is written to `docs/chunking/fixedSizeChunk/chunk_output.txt`.
+- Output is written to `docs/chunking/fixed_size_chunk/chunk_output.txt`.

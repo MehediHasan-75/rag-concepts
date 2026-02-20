@@ -271,7 +271,7 @@ if __name__ == "__main__":
     print("4. During retrieval, consider filtering by complexity for specific use cases")
     
     # Clean output written to file once at the end
-    output_path = "docs/chunking/adaptiveChunking/chunk_output.txt"
+    output_path = "docs/chunking/adaptive_chunking/chunk_output.txt"
     try:
         with open(output_path, "w", encoding="utf-8") as output_file:
             for i, doc in enumerate(chunked_docs):

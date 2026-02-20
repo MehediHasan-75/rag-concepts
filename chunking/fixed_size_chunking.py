@@ -65,7 +65,7 @@ def perform_fixed_size_chunking(document, chunk_size=1000, chunk_overlap=200):
 if __name__ == "__main__":
     
 
-    with open("docs/chunking/fixedSizeChunk/rag_chunking_test_doc.md", "r", encoding="utf-8") as file:
+    with open("docs/chunking/fixed_size_chunk/rag_chunking_test_doc.md", "r", encoding="utf-8") as file:
         document = file.read()
     
     # Process with fixed-size chunking
@@ -85,7 +85,7 @@ if __name__ == "__main__":
 
 
 # Open a new file in write mode ("w")
-with open("docs/chunking/fixedSizeChunk/chunk_output.txt", "w", encoding="utf-8") as output_file:
+with open("docs/chunking/fixed_size_chunk/chunk_output.txt", "w", encoding="utf-8") as output_file:
     
     for i, doc in enumerate(chunked_docs):
         # Write the chunk header

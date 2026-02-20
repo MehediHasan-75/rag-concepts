@@ -101,7 +101,7 @@ def perform_code_chunking(code_document, language="python", chunk_size=100, chun
 # Example usage with Databricks integration
 if __name__ == "__main__":
     # Create Python code document
-    with open("docs/chunking/recursiveChunking/python_code.md", "r", encoding="utf-8") as file:
+    with open("docs/chunking/recursive_chunking/python_code.md", "r", encoding="utf-8") as file:
         python_document = file.read()
 
     # Process with code chunking
@@ -146,7 +146,7 @@ if __name__ == "__main__":
     print("4. Use function/class metadata for filtering during retrieval")
 
     # Open file in write mode
-    with open("docs/chunking/recursiveChunking/chunk_output.txt", "w", encoding="utf-8") as output_file:
+    with open("docs/chunking/recursive_chunking/chunk_output.txt", "w", encoding="utf-8") as output_file:
         
         for i, doc in enumerate(chunked_docs):
             # Write the chunk header

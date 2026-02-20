@@ -2,7 +2,7 @@ import random
 import string
 
 # Configuration
-OUTPUT_FILENAME = "docs/chunking/fixedSizeChunk/rag_chunking_test_doc.md"
+OUTPUT_FILENAME = "docs/chunking/fixed_size_chunk/rag_chunking_test_doc.md"
 NUM_SECTIONS = 5
 MAX_PARAGRAPHS_PER_SECTION = 4
 MAX_SENTENCES_PER_PARAGRAPH = 8

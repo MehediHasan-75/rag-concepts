@@ -10,4 +10,4 @@ python3 chunking/context_enrich_chunking.py
 
 Notes:
 - A mock summarizer is provided for local testing. Replace with a real LLM chain for production.
-- Output is written to `docs/chunking/contextEnrichChunking/chunk_output.txt`.
+- Output is written to `docs/chunking/context_enrich_chunking/chunk_output.txt`.

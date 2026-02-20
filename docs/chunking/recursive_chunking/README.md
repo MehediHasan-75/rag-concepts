@@ -9,5 +9,5 @@ python3 chunking/recursive_chunking.py
 ```
 
 Notes:
-- Example input file: `docs/chunking/recursiveChunking/python_code.md`.
-- Output is written to `docs/chunking/recursiveChunking/chunk_output.txt`.
+- Example input file: `docs/chunking/recursive_chunking/python_code.md`.
+- Output is written to `docs/chunking/recursive_chunking/chunk_output.txt`.

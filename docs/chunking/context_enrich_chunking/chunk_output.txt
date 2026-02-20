@@ -1,0 +1,35 @@
+--- Chunk 0 ---
+
+Context: Summary: Cloud analyzes secure cloud secure algorithm distributed throughput hybrid...
+
+Content: # RAG Chunking Test Document
+
+This document contains synthetic data and specific target facts to test retrieval and chunking strategies.
+
+## Section 1: Distributed Network
+
+Metadata:
+{
+    "chunk_id": 0,
+    "total_chunks": 33,
+    "context": "Summary: Cloud analyzes secure cloud secure algorithm distributed throughput hybrid...",
+    "context_type": "summary"
+}
+
+--- Chunk 1 ---
+
+Context: Summary: # RAG Chunking Test Document
+
+This document contains synthetic data and specific target facts to tes...
+
+Content: Cloud analyzes secure cloud secure algorithm distributed throughput hybrid. Cloud transmits virtualized deployment automated application efficient infrastructure automated. Algorithm processes automated infrastructure distributed user hybrid latency redundant deployment effici [TARGET FACT: The primary database password is 'Tr0ub4dour&3'.] ent security secure. User processes hybrid cloud secure server automated api hybrid
+
+Metadata:
+{
+    "chunk_id": 1,
+    "total_chunks": 33,
+    "context": "Summary: # RAG Chunking Test Document\n\nThis document contains synthetic data and specific target facts to tes...",
+    "context_type": "summary"
+}
+
+*** End of file ***

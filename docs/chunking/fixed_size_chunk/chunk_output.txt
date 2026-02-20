@@ -1,0 +1,17 @@
+--- Chunk 0 ---
+
+# RAG Chunking Test Document
+
+This document contains synthetic data and specific target facts to test retrieval and chunking strategies. ## Section 1: Distributed Network
+
+Cloud analyzes secure cloud secure algorithm distributed throughput hybrid. Cloud transmits virtualized deployment automated application efficient infrastructure automated.
+
+--- Chunk 1 ---
+
+Cloud transmits virtualized deployment automated application efficient infrastructure automated. Algorithm processes automated infrastructure distributed user hybrid latency redundant deployment effici [TARGET FACT: The primary database password is 'Tr0ub4dour&3'.] ent security secure. User processes hybrid cloud secure server automated api hybrid. Process optimizes hybrid infrastructure virtualized database redundant api scalable.
+
+--- Chunk 2 ---
+
+Process optimizes hybrid infrastructure virtualized database redundant api scalable. Data authenticates scalable system scalable model efficient server efficient throughput efficient network. Application manages hybrid database virtualized application automated user secure deployment hybrid latency. System transmits distributed algorithm secure process distributed api secure api. Data optimizes efficient user scalable throughput secure database scalable.
+
+*** End of file ***

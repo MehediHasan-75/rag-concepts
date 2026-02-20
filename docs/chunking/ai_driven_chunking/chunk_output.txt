@@ -1,0 +1,31 @@
+--- Chunk 0 ---
+
+# RAG Chunking Test Document
+
+This document contains synthetic data and specific target facts to test retrieval and chunking strategies.
+
+## Section 1: Distributed Network
+
+Cloud analyzes secure cloud secure algorithm distributed throughput hybrid. Cloud transmits virtualized deployment automated application efficient infrastructure automated. Algorithm processes automated infrastructure distributed user hybrid latency redundant deployment effici [TARGET FACT: The primary database password is 'Tr0ub4dour&3'.] ent security secure. User processes hybrid cloud secure server automated api hybrid. Process optimizes hybrid infrastructure virtualized database redundant api scalable. Data authenticates scalable system scalable model efficient server efficient throughput efficient network.
+
+Application manages hybrid database virtualized application automated user secure deployment hybrid latency. System transmits distributed algorithm secure process distributed api secure api. Data optimizes efficient user scalable throughput secure database scalable. Deployment processes scalable database redundant database scalable model secure database hybrid. System transmits hybrid process efficient application hybrid algorithm efficient.
+
+Metadata:
+{
+    "chunk_id": 0,
+    "total_chunks": 8,
+    "chunk_size": 1238,
+    "chunk_type": "mock_ai_driven",
+    "document_position": 0.0,
+    "word_count": 145,
+    "unique_words": 56,
+    "word_density": 0.39
+}
+
+--- Chunk 1 ---
+
+Model optimizes virtualized algorithm efficient process scalable application secure. User optimizes scalable user virtualized database hybrid. Server optimizes hybrid user automated application efficient container secure. Network authenticates hybrid throughput hybrid con [TARGET FACT: Project Alpha is scheduled to launch on October 12th, 2026.] tainer virtualized container secure system scalable network secure. Throughput transmits redundant security virtualized container efficient latency scalable api. Network processes automated network efficient infrastructure virtualized network distributed data distributed.
+
+Database processes scalable process virtualized api. Deployment authenticates redundant security hybrid database redundant api efficient cloud hybrid. Model computes virtualized infrastructure distributed throughput virtualized user distributed.
+
+*** End of file ***

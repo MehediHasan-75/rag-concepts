@@ -226,7 +226,7 @@ if __name__ == "__main__":
     # print("2. Ensure your Databricks endpoint is correctly configured")
     # print("3. Store documents with context in Delta table")
     # print("4. Create embeddings that include the context information")
-    output_path = "docs/chunking/contextEnrichChunking/chunk_output.txt"
+    output_path = "docs/chunking/context_enrich_chunking/chunk_output.txt"
     try:
         with open(output_path, "w", encoding="utf-8") as output_file:
             for i, doc in enumerate(enriched_docs):

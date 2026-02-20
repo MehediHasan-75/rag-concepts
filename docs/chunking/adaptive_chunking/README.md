@@ -11,5 +11,5 @@ python3 chunking/adaptive_chunking.py
 ```
 
 Notes:
-- Output is saved to `docs/chunking/adaptiveChunking/chunk_output.txt` when run from the repository root.
+- Output is saved to `docs/chunking/adaptive_chunking/chunk_output.txt` when run from the repository root.
 - Intended to produce `Document` objects compatible with LangChain workflows.

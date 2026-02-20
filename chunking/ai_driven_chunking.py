@@ -233,7 +233,7 @@ if __name__ == "__main__":
     print("2. Ensure your Databricks endpoint is correctly configured")
     print("3. Consider adjusting max_chunks based on your document size")
 
-    output_path = "docs/chunking/aiDrivenChunking/chunk_output.txt"
+    output_path = "docs/chunking/ai_driven_chunking/chunk_output.txt"
     try:
         with open(output_path, "w", encoding="utf-8") as output_file:
             for i, doc in enumerate(chunked_docs):
