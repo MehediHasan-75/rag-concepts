@@ -1,0 +1,83 @@
+# RAG Chunking Test Document
+
+This document contains synthetic data and specific target facts to test retrieval and chunking strategies.
+
+## Section 1: Distributed Network
+
+Cloud analyzes secure cloud secure algorithm distributed throughput hybrid. Cloud transmits virtualized deployment automated application efficient infrastructure automated. Algorithm processes automated infrastructure distributed user hybrid latency redundant deployment effici [TARGET FACT: The primary database password is 'Tr0ub4dour&3'.] ent security secure. User processes hybrid cloud secure server automated api hybrid. Process optimizes hybrid infrastructure virtualized database redundant api scalable. Data authenticates scalable system scalable model efficient server efficient throughput efficient network. 
+
+Application manages hybrid database virtualized application automated user secure deployment hybrid latency. System transmits distributed algorithm secure process distributed api secure api. Data optimizes efficient user scalable throughput secure database scalable. Deployment processes scalable database redundant database scalable model secure database hybrid. System transmits hybrid process efficient application hybrid algorithm efficient. 
+
+Model optimizes virtualized algorithm efficient process scalable application secure. User optimizes scalable user virtualized database hybrid. Server optimizes hybrid user automated application efficient container secure. Network authenticates hybrid throughput hybrid con [TARGET FACT: Project Alpha is scheduled to launch on October 12th, 2026.] tainer virtualized container secure system scalable network secure. Throughput transmits redundant security virtualized container efficient latency scalable api. Network processes automated network efficient infrastructure virtualized network distributed data distributed. 
+
+Database processes scalable process virtualized api. Deployment authenticates redundant security hybrid database redundant api efficient cloud hybrid. Model computes virtualized infrastructure distributed throughput virtualized user distributed. 
+
+### Key Components of Section 1
+
+1. Database computes hybrid throughput secure security secure process distributed throughput scalable.
+2. Database analyzes distributed process efficient server distributed server.
+3. Model manages scalable network scalable database scalable process redundant latency automated.
+4. Throughput analyzes hybrid cloud automated infrastructure virtualized deployment.
+
+---
+
+## Section 2: Virtualized Api
+
+Algorithm manages automated latency scalable throughput redundant database. Server processes virtualized throughput automated server. Model transmits secure data hybrid process distributed model efficient network efficient data. Api processes hybrid data hybrid user scalable server automated. 
+
+Container optimizes scalable throughput scalable container scalable. Api computes hybrid deployment scalable data scalable infrastructure. Data manages distributed deploym [TARGET FACT: The emergency shutoff code for the main reactor is 881-ZULU.] ent efficient throughput scalable deployment redundant. Network authenticates secure system hybrid latency scalable infrastructure hybrid user automated server efficient. 
+
+Server manages secure deployment efficient user secure network. Cloud transmits secure throughput hybrid security redundant throughput distributed application efficient data efficient. Database analyzes automated container efficient deployment distributed deployment virtualized application secure data redundant. System stores distributed model hybrid security distributed. Container processes virtualized throughput secure model hybrid process redundant. 
+
+---
+
+## Section 3: Secure Database
+
+Server analyzes efficient cloud redundant security virtualized process scalable api distributed model scalable. Deployment computes scalable security distributed cloud hybrid container redundant system automated. Throughput computes automated data secure security. User analyzes virtualized database hybrid latency efficient cloud. Algorithm manages distributed database distributed model virtualized security efficient data hybrid cloud secure. Database computes secure network hybrid latency scalable. Latency analyzes automated throughput virtualized data efficient server virtualized. Network processes hybrid system secure api virtualized data automated. 
+
+Data processes virtualized latency efficient network scalable process scalable. Network transmits distributed deployment virtualized cloud redundant application virtualized infrastructu [TARGET FACT: CEO Jane Doe announced a 15% increase in Q3 revenue.] re distributed. Model analyzes redundant database hybrid user hybrid. System processes scalable data scalable cloud virtualized. Deployment manages distributed algorithm redundant data. 
+
+Cloud manages distributed user redundant application secure application scalable. Data authenticates distributed server virtualized database efficient server virtualized application. Application analyzes secure cloud virtualized application distributed container hybrid container distributed container efficient. User processes hybrid security hybrid infrastructure distributed throughput secure. Deployment authenticates distributed process redundant infrastructure. 
+
+Algorithm stores virtualized algorithm hybrid model efficient database redundant. Throughput manages automat [TARGET FACT: The legacy mainframe uses COBOL and is hosted in the basement server room.] ed algorithm hybrid application efficient. Cloud authenticates distributed server automated cloud scalable. 
+
+### Key Components of Section 3
+
+1. Latency authenticates efficient deployment secure database redundant database automated process.
+2. Application manages automated database automated infrastructure hybrid application.
+3. Api authenticates efficient data automated algorithm distributed data secure throughput.
+4. Algorithm processes automated latency redundant data hybrid algorithm secure server.
+5. Api analyzes scalable model efficient throughput redundant throughput redundant system scalable model hybrid.
+6. Network optimizes distributed throughput automated infrastructure scalable.
+
+---
+
+## Section 4: Efficient Container
+
+Throughput computes distributed network efficient api secure throughput distributed container. Network analyzes scalable model automated security hybrid application secure algorithm redundant security. Model stores virtualized algorithm efficient database redundant process virtualized api secure user hybrid. Application computes efficient database efficient server. 
+
+User stores virtualized throughput automated api hybrid process virtualized container. Latency authenticates automated throughput automated data secure application efficient model distributed network. Database computes redundant user hybrid throughput. Deployment optimizes scalable user automated throughput hybrid process. Infrastructure optimizes scalable model efficient network secure network redundant. Container manages automated security hybrid system scalable. Server processes scalable model efficient algorithm. Application transmits virtualized database automated container distributed throughput. 
+
+User computes hybrid throughput automated security secure algorithm virtualized. Application analyzes virtualized deployment secure infrastructure automated. Api analyzes automated process distributed container virtualized algorithm scalable. Latency stores scalable infrastructure redundant database automated network efficient security distributed process virtualized. Cloud processes redundant system efficient server virtualized user secure application. Deployment authenticates efficient model scalable application redundant. 
+
+### Key Components of Section 4
+
+1. Database analyzes automated deployment secure model.
+2. Model computes virtualized system virtualized user redundant network scalable security automated system.
+3. Algorithm optimizes hybrid database scalable container redundant algorithm distributed.
+4. Infrastructure manages automated latency efficient latency scalable model hybrid infrastructure distributed cloud.
+
+---
+
+## Section 5: Efficient System
+
+Infrastructure transmits secure cloud scalable system secure user. Model transmits virtualized throughput redundant application hybrid data redundant. System processes virtualized model automated throughput distributed. Database manages efficient throughput hybrid application. Cloud authenticates scalable algorithm distributed server scalable server distributed data. Network stores secure infrastructure virtualized application hybrid api distributed database. System manages automated database virtualized server. System computes distributed network hybrid api. 
+
+Security manages virtualized latency virtualized data virtualized. Algorithm transmits automated system hybrid deployment. User computes hybrid deployment redundant network scalable data efficient throughput distributed. Database manages secure system distributed algorithm automated infrastructure hybrid infrastructure. Security optimizes virtualized data secure database automated. Process processes scalable infrastructure redundant process virtualized algorithm. Security transmits scalable user virtualized security virtualized container automated security automated database automated. Network manages automated throughput virtualized container efficient system. 
+
+Api optimizes virtualized process virtualized api redundant system secure api distributed algorithm efficient. Data authenticates automated throughput distributed user secure user efficient cloud redundant. System transmits redundant database redundant latency distributed application distributed. Model transmits automated throughput scalable data distributed process redundant database redundant application distributed. Latency analyzes scalable security virtualized algorithm scalable container efficient security virtualized network. 
+
+User processes redundant infrastructure scalable infrastructure hybrid user hybrid. Cloud computes distributed network scalable system redundant throughput hybrid. Data transmits efficient process automated security secure data scalable user. Deployment optimizes virtualized container automated throughput secure api secure container hybrid security scalable. Model optimizes hybrid throughput hybrid algorithm. Model processes automated deployment hybrid api efficient application distributed process virtualized deployment. Server manages redundant infrastructure efficient infrastructure redundant infrastructure. Network manages scalable model efficient application scalable cloud virtualized network distributed server efficient. 
+
+---
+

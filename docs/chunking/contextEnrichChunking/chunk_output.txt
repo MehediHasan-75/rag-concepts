@@ -1,0 +1,518 @@
+--- Chunk 0 ---
+
+Context: Summary: Cloud analyzes secure cloud secure algorithm distributed throughput hybrid...
+
+Content: # RAG Chunking Test Document
+
+This document contains synthetic data and specific target facts to test retrieval and chunking strategies.
+
+## Section 1: Distributed Network
+
+Metadata:
+{
+    "chunk_id": 0,
+    "total_chunks": 33,
+    "context": "Summary: Cloud analyzes secure cloud secure algorithm distributed throughput hybrid...",
+    "context_type": "summary"
+}
+
+--- Chunk 1 ---
+
+Context: Summary: # RAG Chunking Test Document
+
+This document contains synthetic data and specific target facts to tes...
+
+Content: Cloud analyzes secure cloud secure algorithm distributed throughput hybrid. Cloud transmits virtualized deployment automated application efficient infrastructure automated. Algorithm processes automated infrastructure distributed user hybrid latency redundant deployment effici [TARGET FACT: The primary database password is 'Tr0ub4dour&3'.] ent security secure. User processes hybrid cloud secure server automated api hybrid
+
+Metadata:
+{
+    "chunk_id": 1,
+    "total_chunks": 33,
+    "context": "Summary: # RAG Chunking Test Document\n\nThis document contains synthetic data and specific target facts to tes...",
+    "context_type": "summary"
+}
+
+--- Chunk 2 ---
+
+Context: Summary: Cloud analyzes secure cloud secure algorithm distributed throughput hybrid...
+
+Content: . Process optimizes hybrid infrastructure virtualized database redundant api scalable. Data authenticates scalable system scalable model efficient server efficient throughput efficient network.
+
+Metadata:
+{
+    "chunk_id": 2,
+    "total_chunks": 33,
+    "context": "Summary: Cloud analyzes secure cloud secure algorithm distributed throughput hybrid...",
+    "context_type": "summary"
+}
+
+--- Chunk 3 ---
+
+Context: Summary: ...
+
+Content: Application manages hybrid database virtualized application automated user secure deployment hybrid latency. System transmits distributed algorithm secure process distributed api secure api. Data optimizes efficient user scalable throughput secure database scalable. Deployment processes scalable database redundant database scalable model secure database hybrid. System transmits hybrid process efficient application hybrid algorithm efficient.
+
+Metadata:
+{
+    "chunk_id": 3,
+    "total_chunks": 33,
+    "context": "Summary: ...",
+    "context_type": "summary"
+}
+
+--- Chunk 4 ---
+
+Context: Summary: Application manages hybrid database virtualized application automated user secure deployment hybrid ...
+
+Content: Model optimizes virtualized algorithm efficient process scalable application secure. User optimizes scalable user virtualized database hybrid. Server optimizes hybrid user automated application efficient container secure. Network authenticates hybrid throughput hybrid con [TARGET FACT: Project Alpha is scheduled to launch on October 12th, 2026.] tainer virtualized container secure system scalable network secure
+
+Metadata:
+{
+    "chunk_id": 4,
+    "total_chunks": 33,
+    "context": "Summary: Application manages hybrid database virtualized application automated user secure deployment hybrid ...",
+    "context_type": "summary"
+}
+
+--- Chunk 5 ---
+
+Context: Summary: Model optimizes virtualized algorithm efficient process scalable application secure...
+
+Content: . Throughput transmits redundant security virtualized container efficient latency scalable api. Network processes automated network efficient infrastructure virtualized network distributed data distributed.
+
+Metadata:
+{
+    "chunk_id": 5,
+    "total_chunks": 33,
+    "context": "Summary: Model optimizes virtualized algorithm efficient process scalable application secure...",
+    "context_type": "summary"
+}
+
+--- Chunk 6 ---
+
+Context: Summary: ...
+
+Content: Database processes scalable process virtualized api. Deployment authenticates redundant security hybrid database redundant api efficient cloud hybrid. Model computes virtualized infrastructure distributed throughput virtualized user distributed. 
+
+### Key Components of Section 1
+
+Metadata:
+{
+    "chunk_id": 6,
+    "total_chunks": 33,
+    "context": "Summary: ...",
+    "context_type": "summary"
+}
+
+--- Chunk 7 ---
+
+Context: Summary: Database processes scalable process virtualized api...
+
+Content: ### Key Components of Section 1
+
+1. Database computes hybrid throughput secure security secure process distributed throughput scalable.
+2. Database analyzes distributed process efficient server distributed server.
+3. Model manages scalable network scalable database scalable process redundant latency automated.
+4. Throughput analyzes hybrid cloud automated infrastructure virtualized deployment.
+
+---
+
+## Section 2: Virtualized Api
+
+Metadata:
+{
+    "chunk_id": 7,
+    "total_chunks": 33,
+    "context": "Summary: Database processes scalable process virtualized api...",
+    "context_type": "summary"
+}
+
+--- Chunk 8 ---
+
+Context: Summary: ### Key Components of Section 1
+
+1...
+
+Content: ---
+
+## Section 2: Virtualized Api
+
+Algorithm manages automated latency scalable throughput redundant database. Server processes virtualized throughput automated server. Model transmits secure data hybrid process distributed model efficient network efficient data. Api processes hybrid data hybrid user scalable server automated.
+
+Metadata:
+{
+    "chunk_id": 8,
+    "total_chunks": 33,
+    "context": "Summary: ### Key Components of Section 1\n\n1...",
+    "context_type": "summary"
+}
+
+--- Chunk 9 ---
+
+Context: Summary: ---
+
+## Section 2: Virtualized Api
+
+Algorithm manages automated latency scalable throughput redundan...
+
+Content: Container optimizes scalable throughput scalable container scalable. Api computes hybrid deployment scalable data scalable infrastructure. Data manages distributed deploym [TARGET FACT: The emergency shutoff code for the main reactor is 881-ZULU.] ent efficient throughput scalable deployment redundant. Network authenticates secure system hybrid latency scalable infrastructure hybrid user automated server efficient.
+
+Metadata:
+{
+    "chunk_id": 9,
+    "total_chunks": 33,
+    "context": "Summary: ---\n\n## Section 2: Virtualized Api\n\nAlgorithm manages automated latency scalable throughput redundan...",
+    "context_type": "summary"
+}
+
+--- Chunk 10 ---
+
+Context: Summary: Container optimizes scalable throughput scalable container scalable...
+
+Content: Server manages secure deployment efficient user secure network. Cloud transmits secure throughput hybrid security redundant throughput distributed application efficient data efficient. Database analyzes automated container efficient deployment distributed deployment virtualized application secure data redundant. System stores distributed model hybrid security distributed. Container processes virtualized throughput secure model hybrid process redundant. 
+
+---
+
+## Section 3: Secure Database
+
+Metadata:
+{
+    "chunk_id": 10,
+    "total_chunks": 33,
+    "context": "Summary: Container optimizes scalable throughput scalable container scalable...",
+    "context_type": "summary"
+}
+
+--- Chunk 11 ---
+
+Context: Summary: Server manages secure deployment efficient user secure network...
+
+Content: Server analyzes efficient cloud redundant security virtualized process scalable api distributed model scalable. Deployment computes scalable security distributed cloud hybrid container redundant system automated. Throughput computes automated data secure security. User analyzes virtualized database hybrid latency efficient cloud. Algorithm manages distributed database distributed model virtualized security efficient data hybrid cloud secure
+
+Metadata:
+{
+    "chunk_id": 11,
+    "total_chunks": 33,
+    "context": "Summary: Server manages secure deployment efficient user secure network...",
+    "context_type": "summary"
+}
+
+--- Chunk 12 ---
+
+Context: Summary: Server analyzes efficient cloud redundant security virtualized process scalable api distributed mode...
+
+Content: . Database computes secure network hybrid latency scalable. Latency analyzes automated throughput virtualized data efficient server virtualized. Network processes hybrid system secure api virtualized data automated.
+
+Metadata:
+{
+    "chunk_id": 12,
+    "total_chunks": 33,
+    "context": "Summary: Server analyzes efficient cloud redundant security virtualized process scalable api distributed mode...",
+    "context_type": "summary"
+}
+
+--- Chunk 13 ---
+
+Context: Summary: ...
+
+Content: Data processes virtualized latency efficient network scalable process scalable. Network transmits distributed deployment virtualized cloud redundant application virtualized infrastructu [TARGET FACT: CEO Jane Doe announced a 15% increase in Q3 revenue.] re distributed. Model analyzes redundant database hybrid user hybrid. System processes scalable data scalable cloud virtualized. Deployment manages distributed algorithm redundant data.
+
+Metadata:
+{
+    "chunk_id": 13,
+    "total_chunks": 33,
+    "context": "Summary: ...",
+    "context_type": "summary"
+}
+
+--- Chunk 14 ---
+
+Context: Summary: Data processes virtualized latency efficient network scalable process scalable...
+
+Content: Cloud manages distributed user redundant application secure application scalable. Data authenticates distributed server virtualized database efficient server virtualized application. Application analyzes secure cloud virtualized application distributed container hybrid container distributed container efficient. User processes hybrid security hybrid infrastructure distributed throughput secure. Deployment authenticates distributed process redundant infrastructure.
+
+Metadata:
+{
+    "chunk_id": 14,
+    "total_chunks": 33,
+    "context": "Summary: Data processes virtualized latency efficient network scalable process scalable...",
+    "context_type": "summary"
+}
+
+--- Chunk 15 ---
+
+Context: Summary: Cloud manages distributed user redundant application secure application scalable...
+
+Content: Algorithm stores virtualized algorithm hybrid model efficient database redundant. Throughput manages automat [TARGET FACT: The legacy mainframe uses COBOL and is hosted in the basement server room.] ed algorithm hybrid application efficient. Cloud authenticates distributed server automated cloud scalable. 
+
+### Key Components of Section 3
+
+Metadata:
+{
+    "chunk_id": 15,
+    "total_chunks": 33,
+    "context": "Summary: Cloud manages distributed user redundant application secure application scalable...",
+    "context_type": "summary"
+}
+
+--- Chunk 16 ---
+
+Context: Summary: Algorithm stores virtualized algorithm hybrid model efficient database redundant...
+
+Content: 1. Latency authenticates efficient deployment secure database redundant database automated process.
+2. Application manages automated database automated infrastructure hybrid application.
+3. Api authenticates efficient data automated algorithm distributed data secure throughput.
+4. Algorithm processes automated latency redundant data hybrid algorithm secure server.
+5. Api analyzes scalable model efficient throughput redundant throughput redundant system scalable model hybrid.
+
+Metadata:
+{
+    "chunk_id": 16,
+    "total_chunks": 33,
+    "context": "Summary: Algorithm stores virtualized algorithm hybrid model efficient database redundant...",
+    "context_type": "summary"
+}
+
+--- Chunk 17 ---
+
+Context: Summary: 1...
+
+Content: 6. Network optimizes distributed throughput automated infrastructure scalable.
+
+Metadata:
+{
+    "chunk_id": 17,
+    "total_chunks": 33,
+    "context": "Summary: 1...",
+    "context_type": "summary"
+}
+
+--- Chunk 18 ---
+
+Context: Summary: 6...
+
+Content: ---
+
+## Section 4: Efficient Container
+
+Throughput computes distributed network efficient api secure throughput distributed container. Network analyzes scalable model automated security hybrid application secure algorithm redundant security. Model stores virtualized algorithm efficient database redundant process virtualized api secure user hybrid. Application computes efficient database efficient server.
+
+Metadata:
+{
+    "chunk_id": 18,
+    "total_chunks": 33,
+    "context": "Summary: 6...",
+    "context_type": "summary"
+}
+
+--- Chunk 19 ---
+
+Context: Summary: ---
+
+## Section 4: Efficient Container
+
+Throughput computes distributed network efficient api secure...
+
+Content: User stores virtualized throughput automated api hybrid process virtualized container. Latency authenticates automated throughput automated data secure application efficient model distributed network. Database computes redundant user hybrid throughput. Deployment optimizes scalable user automated throughput hybrid process. Infrastructure optimizes scalable model efficient network secure network redundant. Container manages automated security hybrid system scalable
+
+Metadata:
+{
+    "chunk_id": 19,
+    "total_chunks": 33,
+    "context": "Summary: ---\n\n## Section 4: Efficient Container\n\nThroughput computes distributed network efficient api secure...",
+    "context_type": "summary"
+}
+
+--- Chunk 20 ---
+
+Context: Summary: User stores virtualized throughput automated api hybrid process virtualized container...
+
+Content: . Server processes scalable model efficient algorithm. Application transmits virtualized database automated container distributed throughput.
+
+Metadata:
+{
+    "chunk_id": 20,
+    "total_chunks": 33,
+    "context": "Summary: User stores virtualized throughput automated api hybrid process virtualized container...",
+    "context_type": "summary"
+}
+
+--- Chunk 21 ---
+
+Context: Summary: ...
+
+Content: User computes hybrid throughput automated security secure algorithm virtualized. Application analyzes virtualized deployment secure infrastructure automated. Api analyzes automated process distributed container virtualized algorithm scalable. Latency stores scalable infrastructure redundant database automated network efficient security distributed process virtualized. Cloud processes redundant system efficient server virtualized user secure application
+
+Metadata:
+{
+    "chunk_id": 21,
+    "total_chunks": 33,
+    "context": "Summary: ...",
+    "context_type": "summary"
+}
+
+--- Chunk 22 ---
+
+Context: Summary: User computes hybrid throughput automated security secure algorithm virtualized...
+
+Content: . Deployment authenticates efficient model scalable application redundant.
+
+Metadata:
+{
+    "chunk_id": 22,
+    "total_chunks": 33,
+    "context": "Summary: User computes hybrid throughput automated security secure algorithm virtualized...",
+    "context_type": "summary"
+}
+
+--- Chunk 23 ---
+
+Context: Summary: ...
+
+Content: ### Key Components of Section 4
+
+1. Database analyzes automated deployment secure model.
+2. Model computes virtualized system virtualized user redundant network scalable security automated system.
+3. Algorithm optimizes hybrid database scalable container redundant algorithm distributed.
+4. Infrastructure manages automated latency efficient latency scalable model hybrid infrastructure distributed cloud.
+
+---
+
+## Section 5: Efficient System
+
+Metadata:
+{
+    "chunk_id": 23,
+    "total_chunks": 33,
+    "context": "Summary: ...",
+    "context_type": "summary"
+}
+
+--- Chunk 24 ---
+
+Context: Summary: ### Key Components of Section 4
+
+1...
+
+Content: Infrastructure transmits secure cloud scalable system secure user. Model transmits virtualized throughput redundant application hybrid data redundant. System processes virtualized model automated throughput distributed. Database manages efficient throughput hybrid application. Cloud authenticates scalable algorithm distributed server scalable server distributed data. Network stores secure infrastructure virtualized application hybrid api distributed database
+
+Metadata:
+{
+    "chunk_id": 24,
+    "total_chunks": 33,
+    "context": "Summary: ### Key Components of Section 4\n\n1...",
+    "context_type": "summary"
+}
+
+--- Chunk 25 ---
+
+Context: Summary: Infrastructure transmits secure cloud scalable system secure user...
+
+Content: . System manages automated database virtualized server. System computes distributed network hybrid api.
+
+Metadata:
+{
+    "chunk_id": 25,
+    "total_chunks": 33,
+    "context": "Summary: Infrastructure transmits secure cloud scalable system secure user...",
+    "context_type": "summary"
+}
+
+--- Chunk 26 ---
+
+Context: Summary: ...
+
+Content: Security manages virtualized latency virtualized data virtualized. Algorithm transmits automated system hybrid deployment. User computes hybrid deployment redundant network scalable data efficient throughput distributed. Database manages secure system distributed algorithm automated infrastructure hybrid infrastructure. Security optimizes virtualized data secure database automated. Process processes scalable infrastructure redundant process virtualized algorithm
+
+Metadata:
+{
+    "chunk_id": 26,
+    "total_chunks": 33,
+    "context": "Summary: ...",
+    "context_type": "summary"
+}
+
+--- Chunk 27 ---
+
+Context: Summary: Security manages virtualized latency virtualized data virtualized...
+
+Content: . Security transmits scalable user virtualized security virtualized container automated security automated database automated. Network manages automated throughput virtualized container efficient system.
+
+Metadata:
+{
+    "chunk_id": 27,
+    "total_chunks": 33,
+    "context": "Summary: Security manages virtualized latency virtualized data virtualized...",
+    "context_type": "summary"
+}
+
+--- Chunk 28 ---
+
+Context: Summary: ...
+
+Content: Api optimizes virtualized process virtualized api redundant system secure api distributed algorithm efficient. Data authenticates automated throughput distributed user secure user efficient cloud redundant. System transmits redundant database redundant latency distributed application distributed. Model transmits automated throughput scalable data distributed process redundant database redundant application distributed
+
+Metadata:
+{
+    "chunk_id": 28,
+    "total_chunks": 33,
+    "context": "Summary: ...",
+    "context_type": "summary"
+}
+
+--- Chunk 29 ---
+
+Context: Summary: Api optimizes virtualized process virtualized api redundant system secure api distributed algorithm ...
+
+Content: . Latency analyzes scalable security virtualized algorithm scalable container efficient security virtualized network.
+
+Metadata:
+{
+    "chunk_id": 29,
+    "total_chunks": 33,
+    "context": "Summary: Api optimizes virtualized process virtualized api redundant system secure api distributed algorithm ...",
+    "context_type": "summary"
+}
+
+--- Chunk 30 ---
+
+Context: Summary: ...
+
+Content: User processes redundant infrastructure scalable infrastructure hybrid user hybrid. Cloud computes distributed network scalable system redundant throughput hybrid. Data transmits efficient process automated security secure data scalable user. Deployment optimizes virtualized container automated throughput secure api secure container hybrid security scalable. Model optimizes hybrid throughput hybrid algorithm
+
+Metadata:
+{
+    "chunk_id": 30,
+    "total_chunks": 33,
+    "context": "Summary: ...",
+    "context_type": "summary"
+}
+
+--- Chunk 31 ---
+
+Context: Summary: User processes redundant infrastructure scalable infrastructure hybrid user hybrid...
+
+Content: . Model processes automated deployment hybrid api efficient application distributed process virtualized deployment. Server manages redundant infrastructure efficient infrastructure redundant infrastructure. Network manages scalable model efficient application scalable cloud virtualized network distributed server efficient.
+
+Metadata:
+{
+    "chunk_id": 31,
+    "total_chunks": 33,
+    "context": "Summary: User processes redundant infrastructure scalable infrastructure hybrid user hybrid...",
+    "context_type": "summary"
+}
+
+--- Chunk 32 ---
+
+Context: Summary: ...
+
+Content: ---
+
+Metadata:
+{
+    "chunk_id": 32,
+    "total_chunks": 33,
+    "context": "Summary: ...",
+    "context_type": "summary"
+}
+
